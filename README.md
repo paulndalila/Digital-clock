@@ -1,2 +1,2 @@
 # Java-digital-Clock-repo
- Made a java digital clock purely with java
+<h1> Made a digital clock purely with java </h2>
