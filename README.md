@@ -1,2 +1,3 @@
 # Java-digital-Clock-repo
-Made a digital clock purely with java
+<p><b>Language:</b> Java</p>
+<p><b>Library:</b> Java swing</p>
